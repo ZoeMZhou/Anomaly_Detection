@@ -1,9 +1,7 @@
 # Anomaly_Detection
 
-Fraud detection using autoender
 
-Project data and step-by-step instructions
-The goal of this project is to to detect illegitimate connections in a computer network using an autoencoder
+# The goal of this project is to to detect illegitimate connections in a computer network using an autoencoder
 
 Data set description
 Data set for this project is from The Third International Knowledge Discovery and Data Mining Tools Competition at KDD-99, The Fifth International Conference on Knowledge Discovery and Data Mining. File kddCupTrain.csv with the data necessary for this project contains only one of multiple types of attacks (see below).
